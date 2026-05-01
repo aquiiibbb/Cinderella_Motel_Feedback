@@ -35,7 +35,7 @@
 
 /* ── Card Top (Header) ── */
 .card-top {
-    background: #7a311b;
+    background: #a97e40;
     padding: 17px 39px 0px;
     text-align: center;
     position: relative;
@@ -43,7 +43,7 @@
 }
 
 .logo-wrap {
-     background: #7a311b;
+     background: #a97e40;
     width: 200px;
     height: 90px;
     border-radius: 10px;
@@ -58,7 +58,7 @@
 }
 
 .logo-image {
-     background: #7a311b;
+     background: #a97e40    ;
     padding: 2px;
     width: 214px;
     height: 87px;
@@ -222,7 +222,7 @@
     background: transparent;
     padding: 2px;
     border-radius: 18px;
-    border: 1px solid #7a311b;
+    border: 1px solid #a97e40;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -231,7 +231,7 @@
 
 .qr-interaction:hover .qr-container {
     background: #d3e9fa;
-    border-color: #7a311b;
+    border-color: #a97e40;
     box-shadow: 0 8px 24px rgba(24, 95, 165, 0.05);
 }
 
@@ -249,7 +249,7 @@
 
 /* ── Card Footer (Same as Header) ── */
 .card-footer {
-    background: #7a311b;
+    background: #a97e40;
     padding: 36px 32px 28px;
     text-align: center;
     position: relative;
@@ -266,7 +266,7 @@
     align-items: center;
     justify-content: center;
     overflow: hidden;
-    border: 2px solid #7a311b;
+    border: 2px solid #a97e40;
     position: relative;
     z-index: 1;
 }
