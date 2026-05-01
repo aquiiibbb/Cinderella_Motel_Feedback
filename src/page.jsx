@@ -37,8 +37,8 @@ function Page() {
     if (r >= 4) {
       // High rating (4-5 stars) - direct redirect to Google Reviews
       setTimeout(() => {
-        window.location.href = "https://g.page/r/CZuCqInf65YPEBM/review";
-      }, 500);
+        window.location.href = "https://g.page/r/CTjbaDN9vUILEBM/review";
+      }, 100);
     } else if (r <= 3) {
       // Low rating (1-3 stars) - show user form
       setShowUserForm(true);
