@@ -74,7 +74,7 @@ h2 {
 }
 
 .input-field:focus {
-  border-color: #571906;
+  border-color: #a97e40;
   box-shadow: 0 0 0 2px rgba(106, 27, 42, 0.1);
 }
 
@@ -155,7 +155,7 @@ h2 {
 .rating-label {
   font-size: 1.1rem;
   font-weight: 600;
-  color: #991c34;
+  color: #a97e40;
   margin-bottom: 15px;
 }
 
@@ -200,14 +200,14 @@ textarea {
 }
 
 textarea:focus { 
-  border-color: #571906; 
-  box-shadow: 0 0 0 2px rgba(87, 25, 6 , 0.1);
+  border-color: #a97e40; 
+  box-shadow: 0 0 0 2px rgba(169, 126, 64, 0.1);
 }
 
 .btn {
   margin-top: 15px;
   width: 100%;
-  background: linear-gradient(135deg, #571906, #8b2f40);
+  background: linear-gradient(135deg, #a97e40, #8b2f40);
   color: white;
   border: none;
   padding: 12px;
@@ -221,7 +221,7 @@ textarea:focus {
 .btn:hover { 
   opacity: 0.9;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(87, 25, 6 , 0.3);
+  box-shadow: 0 4px 12px rgba(169, 126, 64, 0.3);
 }
 
 .checkmark {
