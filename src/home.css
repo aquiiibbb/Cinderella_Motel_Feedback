@@ -24,7 +24,7 @@
 
 /* ── Card ── */
 .review-card {
-    background: var(--white);
+    background: #571906;
     border-radius: 20px;
     max-width: 420px;
     width: 100%;
